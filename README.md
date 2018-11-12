@@ -9,9 +9,14 @@
 ![ConfigurePaths.png](ConfigurePaths.png "Configure Paths")
 
 4) Open Symbol Library Editor. At menu bar, select "Preferences->Manage Symbol Libraries".
-![ManageSymbolLibraries.png](ManageSymbolLibraries.png "Manage Symbol Libraries")
 
 5) Click the "Browse Libraries" button, then select the library file "00_DogRatIan.lib".
+![ManageSymbolLibraries.png](ManageSymbolLibraries.png "Manage Symbol Libraries")
+
+6) Open Footprint Library Editor. At menu bar, select "Preferences->Manage Symbol Libraries".
+
+5) Click the "Browse Libraries" button, then select the library file "00_DogRatIan.pretty".
+![ManageSymbolLibraries.png](ManageSymbolLibraries_footprint.png "Manage Symbol Libraries")
 
 ## 0.15mm Design Rule
 "blank_0_15mm_Rule.kicad_pcb" is a blank 50x50mm PCB file, with a 0.15mm design rule.
