@@ -15,12 +15,21 @@ $ENDCMP
 $CMP PN532
 D NXP PN532
 K PN532
-F https://www.nxp.com/docs/en/nxp/data-sheets/PN532_C1.pdf
 $ENDCMP
 #
 $CMP SHT20
 D SHT20, Sensirion Temperature Humidity Sensor
 K SHT20
+$ENDCMP
+#
+$CMP STM32F103C8T6
+D STMicroelectronics STM32F103C8T6
+K STM32 STM32F103C8T6
+$ENDCMP
+#
+$CMP STM32L151C8T6
+D STMicroelectronics STM32L151C8T6
+K STM32 STM32L151C8T6
 $ENDCMP
 #
 #End Doc Library
