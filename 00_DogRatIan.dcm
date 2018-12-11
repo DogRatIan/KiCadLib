@@ -27,6 +27,11 @@ K MFRC522 MIFARE Contactless ISO14443
 F https://www.nxp.com/docs/en/nxp/data-sheets/PN532_C1.pdf
 $ENDCMP
 #
+$CMP NTMS5835NL
+D 12A Id, 40V Vds, N-Channel MOSFET, SO-8
+K N-Channel MOSFET
+$ENDCMP
+#
 $CMP PN532
 D NXP PN532
 K PN532
