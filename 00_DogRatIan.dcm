@@ -16,15 +16,25 @@ D 4.2A Id, 20V Vds, 45mOhm Rds, N-Channel MOSFET, SOT-23
 K N-Channel MOSFET
 $ENDCMP
 #
-$CMP IRML6401
+$CMP IRLML6401
 D -4.3A Id, -12V Vds, 50mOhm Rds, P-Channel MOSFET, SOT-23-3
 K P-Channel MOSFET
+$ENDCMP
+#
+$CMP LT1521CS8
+D SHT20, Sensirion Temperature Humidity Sensor
+K SHT20
 $ENDCMP
 #
 $CMP MFRC522
 D NXP MFRC522
 K MFRC522 MIFARE Contactless ISO14443
 F https://www.nxp.com/docs/en/nxp/data-sheets/PN532_C1.pdf
+$ENDCMP
+#
+$CMP MODULE_DX-BT16
+D Module DX-BT16
+K bluetooth module
 $ENDCMP
 #
 $CMP NTMS5835NL
