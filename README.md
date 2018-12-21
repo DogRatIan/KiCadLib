@@ -15,7 +15,8 @@
 
 6) Open Footprint Library Editor. At menu bar, select "Preferences->Manage Symbol Libraries".
 
-5) Click the "Browse Libraries" button, then select the library file "00_DogRatIan.pretty".
+7) Click the "Browse Libraries" button, then select the library file "00_DogRatIan.pretty".
+8) Click the "Browse Libraries" button, then select the library file "99_Bitmap.pretty".
 ![ManageSymbolLibraries.png](ManageSymbolLibraries_footprint.png "Manage Symbol Libraries")
 
 ## 0.15mm Design Rule
