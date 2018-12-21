@@ -37,6 +37,11 @@ D Module DX-BT16
 K bluetooth module
 $ENDCMP
 #
+$CMP MODULE_DX-BT20
+D Module DX-BT20
+K bluetooth module
+$ENDCMP
+#
 $CMP NTMS5835NL
 D 12A Id, 40V Vds, N-Channel MOSFET, SO-8
 K N-Channel MOSFET
