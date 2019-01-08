@@ -57,6 +57,11 @@ D SHT20, Sensirion Temperature Humidity Sensor
 K SHT20
 $ENDCMP
 #
+$CMP SHT30
+D SHT20, Sensirion Temperature Humidity Sensor
+K SHT20
+$ENDCMP
+#
 $CMP STM32F103C8T6
 D STMicroelectronics STM32F103C8T6
 K STM32 STM32F103C8T6
