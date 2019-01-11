@@ -57,7 +57,7 @@ D SHT20, Sensirion Temperature Humidity Sensor
 K SHT20
 $ENDCMP
 #
-$CMP SHT30
+$CMP SHT30-DIS
 D SHT20, Sensirion Temperature Humidity Sensor
 K SHT20
 $ENDCMP
