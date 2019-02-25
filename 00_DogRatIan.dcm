@@ -5,6 +5,11 @@ D Single Buffer Gate Tri-State, Low-Voltage CMOS
 K Single Gate Buff Tri-State LVC CMOS
 $ENDCMP
 #
+$CMP BME280
+D BME280, Bosch humidity, pressure and temperature sensor
+K SHT20
+$ENDCMP
+#
 $CMP CLRC663
 D NXP CLRC663
 K CLRC663
@@ -60,6 +65,11 @@ $ENDCMP
 $CMP SHT30-DIS
 D SHT20, Sensirion Temperature Humidity Sensor
 K SHT20
+$ENDCMP
+#
+$CMP SP6201EM5
+D SP6201EM5, CMOS LDO regulator
+K SP6201
 $ENDCMP
 #
 $CMP STM32F103C8T6
