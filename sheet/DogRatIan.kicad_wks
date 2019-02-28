@@ -30,7 +30,7 @@
   (tbtext %C3 (name text17:Text) (pos 109 32))
   (line (name segm9:Line) (start 90 8.5) (end 90 5.5))
   (line (name segm10:Line) (start 26 8.5) (end 26 2))
-  (bitmap (name bm1:Bitmap) (pos 9.002200000000016 26.00719999999998) (scale 1)
+  (bitmap (name bm1:Bitmap) (pos 11.00220000000002 26.00719999999998) (scale 1)
   (pngdata
     (data "89 50 4E 47 0D 0A 1A 0A 00 00 00 0D 49 48 44 52 00 00 00 A0 00 00 00 A0 08 02 00 00 00 04 AD F0 ")
     (data "7A 00 00 00 03 73 42 49 54 08 08 08 DB E1 4F E0 00 00 00 09 70 48 59 73 00 00 08 98 00 00 08 98 ")
@@ -198,7 +198,7 @@
     )
   )
   (tbtext www.dogratian.com (name text18:Text) (pos 38.00220000000002 20.00719999999998))
-  (bitmap (name bm2:Bitmap) (pos 27.00220000000002 27.00719999999998) (scale 1)
+  (bitmap (name bm2:Bitmap) (pos 29.00220000000002 27.00719999999998) (scale 1)
   (pngdata
     (data "89 50 4E 47 0D 0A 1A 0A 00 00 00 0D 49 48 44 52 00 00 00 80 00 00 00 80 08 02 00 00 00 4C 5C F6 ")
     (data "9C 00 00 00 03 73 42 49 54 08 08 08 DB E1 4F E0 00 00 00 09 70 48 59 73 00 00 0E 74 00 00 0E 74 ")
