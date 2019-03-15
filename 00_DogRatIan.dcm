@@ -5,6 +5,12 @@ D Single Buffer Gate Tri-State, Low-Voltage CMOS
 K Single Gate Buff Tri-State LVC CMOS
 $ENDCMP
 #
+$CMP BAS316
+D 100V 0.25A High-speed Switching Diode, SOD-123
+K diode
+F https://assets.nexperia.com/documents/data-sheet/BAS16_SER.pdf
+$ENDCMP
+#
 $CMP BME280
 D BME280, Bosch humidity, pressure and temperature sensor
 K SHT20
