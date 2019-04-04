@@ -5,6 +5,11 @@ D Single Buffer Gate Tri-State, Low-Voltage CMOS
 K Single Gate Buff Tri-State LVC CMOS
 $ENDCMP
 #
+$CMP A5367
+D A5367, Allegro MicroSystems Ionization Smoke Detector
+K A5367
+$ENDCMP
+#
 $CMP BAS316
 D 100V 0.25A High-speed Switching Diode, SOD-123
 K diode
@@ -53,6 +58,11 @@ D Module DX-BT20
 K bluetooth module
 $ENDCMP
 #
+$CMP MODULE_HIS-07
+D Smoke Detector HIS-07
+K Sensor
+$ENDCMP
+#
 $CMP NTMS5835NL
 D 12A Id, 40V Vds, N-Channel MOSFET, SO-8
 K N-Channel MOSFET
@@ -61,6 +71,11 @@ $ENDCMP
 $CMP PN532
 D NXP PN532
 K PN532
+$ENDCMP
+#
+$CMP SGP30
+D SGP30, Sensirion Multi-Pixel Gas Sensors
+K SGP30
 $ENDCMP
 #
 $CMP SHT20
