@@ -27,6 +27,12 @@ K CLRC663
 F https://www.nxp.com/docs/en/nxp/data-sheets/PN532_C1.pdf
 $ENDCMP
 #
+$CMP G6K-2x
+D Miniature 2-pole relay, Single-side Stable
+K Miniature Relay Dual Pole DPDT Omron
+F http://omronfs.omron.com/en_US/ecb/products/pdf/en-g6k.pdf
+$ENDCMP
+#
 $CMP IRLML2502
 D 4.2A Id, 20V Vds, 45mOhm Rds, N-Channel MOSFET, SOT-23
 K N-Channel MOSFET
