@@ -79,6 +79,11 @@ D NXP PN532
 K PN532
 $ENDCMP
 #
+$CMP RE46C191
+D RE46C191 Photoelectric Smoke Detector IC
+K RE46C191
+$ENDCMP
+#
 $CMP SGP30
 D SGP30, Sensirion Multi-Pixel Gas Sensors
 K SGP30
