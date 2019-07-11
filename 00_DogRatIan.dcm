@@ -54,6 +54,11 @@ K MFRC522 MIFARE Contactless ISO14443
 F https://www.nxp.com/docs/en/nxp/data-sheets/PN532_C1.pdf
 $ENDCMP
 #
+$CMP MODULE_CX-1086
+D Smoke Detector CX-1086
+K Sensor
+$ENDCMP
+#
 $CMP MODULE_DX-BT16
 D Module DX-BT16
 K bluetooth module
@@ -62,6 +67,11 @@ $ENDCMP
 $CMP MODULE_DX-BT20
 D Module DX-BT20
 K bluetooth module
+$ENDCMP
+#
+$CMP MODULE_ESP32-SOLO-1
+D Module ESP32-SOLO-1
+K wifi bluetooth module
 $ENDCMP
 #
 $CMP MODULE_HIS-07
