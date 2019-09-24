@@ -79,6 +79,11 @@ D Smoke Detector HIS-07
 K Sensor
 $ENDCMP
 #
+$CMP MODULE_WL71269_A
+D Module WL71269_A
+K bluetooth module
+$ENDCMP
+#
 $CMP NTMS5835NL
 D 12A Id, 40V Vds, N-Channel MOSFET, SO-8
 K N-Channel MOSFET
@@ -87,6 +92,12 @@ $ENDCMP
 $CMP PN532
 D NXP PN532
 K PN532
+$ENDCMP
+#
+$CMP PRTR5V0U4D
+D Ultra low capacitance double rail-to-rail ESD protection diode, SOT457
+K ESD protection diode
+F https://assets.nexperia.com/documents/data-sheet/PRTR5V0U4D.pdf
 $ENDCMP
 #
 $CMP RE46C191
