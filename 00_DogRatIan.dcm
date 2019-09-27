@@ -18,7 +18,7 @@ $ENDCMP
 #
 $CMP BME280
 D BME280, Bosch humidity, pressure and temperature sensor
-K SHT20
+K BME280
 $ENDCMP
 #
 $CMP CLRC663
@@ -52,6 +52,11 @@ $CMP MFRC522
 D NXP MFRC522
 K MFRC522 MIFARE Contactless ISO14443
 F https://www.nxp.com/docs/en/nxp/data-sheets/PN532_C1.pdf
+$ENDCMP
+#
+$CMP MKDV1GCL
+D MKDV1GCL SDNAND
+K SD NAND
 $ENDCMP
 #
 $CMP MODULE_CX-1086
