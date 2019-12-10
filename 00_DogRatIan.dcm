@@ -115,6 +115,11 @@ D RJ45 with LED and transformer for 10/100Base-TX POE
 K RJ
 $ENDCMP
 #
+$CMP SGM6603
+D SGM6603, Synchronous Step-Up Converter
+K SGM6603
+$ENDCMP
+#
 $CMP SGP30
 D SGP30, Sensirion Multi-Pixel Gas Sensors
 K SGP30
