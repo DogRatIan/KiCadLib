@@ -59,6 +59,12 @@ D MKDV1GCL SDNAND
 K SD NAND
 $ENDCMP
 #
+$CMP MODULE_CRR1S0505SC
+D 5V to 5V Isolated 1W Single Output DC-DC Converter
+K Murata isolated isolation dc-dc converter transformer
+F https://www.murata.com/products/productdata/8807029473310/kdc-crr1.pdf?1583754812000
+$ENDCMP
+#
 $CMP MODULE_CX-1086
 D Smoke Detector CX-1086
 K Sensor
@@ -94,6 +100,12 @@ D 12A Id, 40V Vds, N-Channel MOSFET, SO-8
 K N-Channel MOSFET
 $ENDCMP
 #
+$CMP PIC32MX150F256L
+D Microchip 32-bit Microcontrollers
+K PIC32 PIC32MX150F256L
+F https://ww1.microchip.com/downloads/en/DeviceDoc/PIC32MX1XX2XX5XX%2064100-PIN_Family_60001290F.pdf
+$ENDCMP
+#
 $CMP PN532
 D NXP PN532
 K PN532
@@ -108,6 +120,11 @@ $ENDCMP
 $CMP RE46C191
 D RE46C191 Photoelectric Smoke Detector IC
 K RE46C191
+$ENDCMP
+#
+$CMP RJ45_2x8
+D RJ45 2x8
+K RJ
 $ENDCMP
 #
 $CMP RJ45_HanRun_HR871198A
@@ -141,8 +158,8 @@ K SP6201
 $ENDCMP
 #
 $CMP ST25R3911B
-D STM ST25R3911B 
-K ST25R3911B 
+D STM ST25R3911B
+K ST25R3911B
 $ENDCMP
 #
 $CMP STM32F103C8T6
