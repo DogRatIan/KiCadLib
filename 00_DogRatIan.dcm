@@ -80,6 +80,11 @@ D Module DX-BT20
 K bluetooth module
 $ENDCMP
 #
+$CMP MODULE_E78-xxxLN22S
+D Module, EBYTE, E78-xxxLN22S
+K lora module
+$ENDCMP
+#
 $CMP MODULE_ESP32-SOLO-1
 D Module ESP32-SOLO-1
 K wifi bluetooth module
