@@ -48,6 +48,12 @@ D SHT20, Sensirion Temperature Humidity Sensor
 K SHT20
 $ENDCMP
 #
+$CMP LTC3440EMS
+D Micropower Synchronous Buck-Boost DC/DC Converter
+K LTC3440
+F https://www.analog.com/media/en/technical-documentation/data-sheets/3440fd.pdf
+$ENDCMP
+#
 $CMP MFRC522
 D NXP MFRC522
 K MFRC522 MIFARE Contactless ISO14443
