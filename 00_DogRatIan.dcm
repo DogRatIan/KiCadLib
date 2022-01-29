@@ -159,8 +159,15 @@ K SHT20
 $ENDCMP
 #
 $CMP SHT30-DIS
-D SHT20, Sensirion Temperature Humidity Sensor
-K SHT20
+D SHT30, Sensirion Temperature Humidity Sensor
+K SHT30
+F https://www.sensirion.com/fileadmin/user_upload/customers/sensirion/Dokumente/0_Datasheets/Humidity/Sensirion_Humidity_Sensors_SHT3x_Datasheet_digital.pdf
+$ENDCMP
+#
+$CMP SHT40
+D SHT40, Sensirion Temperature Humidity Sensor
+K SHT40
+F https://sensirion.com/media/documents/33FD6951/61641E1E/Sensirion_Humidity_Sensors_SHT4x_Datasheet.pdf
 $ENDCMP
 #
 $CMP SP6201EM5

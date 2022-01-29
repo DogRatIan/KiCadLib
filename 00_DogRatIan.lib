@@ -1237,7 +1237,7 @@ DEF SHT30-DIS U 0 40 Y Y 1 F N
 F0 "U" 0 300 50 H V C CNN
 F1 "SHT30-DIS" 0 -300 50 H V C CNN
 F2 "00_DogRatIan:DFN-8-1EP_2.5x2.5mm_P0.5mm_EP1.1x1.8mm" 0 -450 50 H I C CNN
-F3 "https://www.sensirion.com/fileadmin/user_upload/customers/sensirion/Dokumente/0_Datasheets/Humidity/Sensirion_Humidity_Sensors_SHT3x_Datasheet_digital.pdf" 0 -350 50 H I C CNN
+F3 "" 0 -350 50 H I C CNN
 DRAW
 S 300 250 -300 -250 0 1 0 f
 X SDA 1 -400 150 100 R 50 50 1 1 B
@@ -1248,6 +1248,22 @@ X VDD 5 400 -150 100 L 50 50 1 1 W
 X ~RESET 6 400 -50 100 L 50 50 1 1 I
 X R 7 400 50 100 L 50 50 1 1 I
 X VSS 8 400 150 100 L 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+# SHT40
+#
+DEF SHT40 U 0 40 Y Y 1 F N
+F0 "U" 0 200 50 H V C CNN
+F1 "SHT40" 0 -300 50 H V C CNN
+F2 "00_DogRatIan:DFN-4_1.5x1.5mm_P0.8mm" 0 -450 50 H I C CNN
+F3 "" 0 -350 50 H I C CNN
+DRAW
+S 300 150 -300 -250 0 1 0 f
+X SDA 1 -400 50 100 R 50 50 1 1 B
+X SCL 2 -400 -150 100 R 50 50 1 1 I
+X VDD 3 400 -150 100 L 50 50 1 1 W
+X VSS 4 400 50 100 L 50 50 1 1 I
 ENDDRAW
 ENDDEF
 #
